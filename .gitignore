@@ -1,0 +1,10 @@
+# dependencies
+/app_dependencies
+
+# support and report files
+log.html
+main.py
+output.xml
+report.html
+.DS_Store
+/.idea
