@@ -9,7 +9,7 @@ This repo contains boiler plate for Mobile Automation
 - Appium Framwork for Mobile Automation
 - Robot Framework for Test Automation
 - Android Studio for Automating [Android] Apps
-- Excode for Automating [IOS] Apps
+- Xcode for Automating [IOS] Apps
 - Appium Inspector for Locating Elements
 
 ## Installation Instructions
